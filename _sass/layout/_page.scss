@@ -399,3 +399,9 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+.author__avatar img {
+  max-width: 140px !important;
+  width: 140px !important;
+  height: 140px !important;
+  object-fit: cover;
+}
