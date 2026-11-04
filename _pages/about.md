@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Dr. Uko Uwak"
-excerpt: "Associate Professor, Political Science/Public Administration"
+excerpt: "Associate Professor, Department of Political Science"
 author_profile: true
 redirect_from:
   - /about/
