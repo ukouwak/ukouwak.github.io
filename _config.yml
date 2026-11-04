@@ -25,8 +25,8 @@ author:
   orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.researchgate.net/profile/U-Uwak"
-  researchgate     : # URL
+  pubmed           : #""
+  researchgate     : "https://www.researchgate.net/profile/U-Uwak"
   scopus           : # URL
   zotero           : # URL
 
