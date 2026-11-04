@@ -17,5 +17,8 @@ main:
   - title: "Research Group"
     url: /research-group/
 
+  - title: "Philosophy"
+    url: /philosophy/
+
   - title: "CV"
     url: /cv/
