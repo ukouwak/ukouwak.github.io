@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Uko Uwak"
+excerpt: "Associate Professor, Political Science/Public Administration"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
